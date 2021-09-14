@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylacrisel
-
-- 🌱 I’m currently learning Html, CSS and JavaScript
+- 👀 I'm interested in Web Development specially in Frontend.
+- 🌱 I’m currently learning HTML, CSS and JavaScript. 
 
 
 
